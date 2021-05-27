@@ -1,2 +1,2 @@
-# Team-4---Capston-project--Prediction-of-close-price-Nifty50
+# Capston-project--Prediction-of-close-price-Nifty50
 Objective : To perform time series analysis on the NIFTY stock price and forecasting using univariate ARIMA and ARIMAX modeling technique. We further simplified the problem to predict the direction of Close price movements in the next N days (throughout our experiments N can take values 1, 5, and 30). Initially, we will take N=1, that means we want to predict the NIFTY 50 Close price movement in the next day. This is represented as a classification task where there are two possible outcomes (either the index went up in the next day or it went down).
