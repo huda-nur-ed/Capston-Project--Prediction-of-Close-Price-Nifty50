@@ -19,7 +19,7 @@ The Nifty 50 is a stock market index comprised of the shares of 50 of India's mo
   <li>Machine Learning Approach</li></p>
   
   
- <p><b>Data collection and preparation</b></p>:
+ <p><b>Data collection and preparation</b>:</p>
  20 years of data  is collected from NSE website and it consists of four features such as high, low, open and close.
 
 <p>Description of columns in the file:</p>
@@ -29,7 +29,7 @@ The Nifty 50 is a stock market index comprised of the shares of 50 of India's mo
 <li>Low — Lowest price at which a stock traded during the course of the trading day.
 <li>Close — The close is a reference to the end of a trading session in the financial markets when the markets close for the day.
   
- <p>Handling missing values<p>:
+ <p>Handling missing values:<p>
 <p>Values that are reported as missing may be due to a variety of factors. The absence of a transaction, as well as potential calculation errors, may result in missing values.
 Check for how many missing values are there in the data.</p>
 <p>There are 35 missing values found in which the entire row is null.We can opt for any of two methods in common.
