@@ -50,7 +50,8 @@ Check for how many missing values are there in the data.</p>
    <li>Lag features
    <li>Time  and Features
    <li>Window features such as Rolling and Expanding features using MA and EWMA techniques.
-  </p> Volatility
+   <li>Volatility
+  </p> 
   
   <p><b>Building Time Series Forecasting model</b>:
   The following techniques are used to forecast Close price of NIFTY 50 stock.
